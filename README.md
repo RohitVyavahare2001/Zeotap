@@ -31,29 +31,29 @@ This file contains transaction details.
 - `TotalValue`: Total value of the transaction.
 - `Price`: Price of the product sold.
 
-# Assignment Tasks
+## Assignment Tasks
 
-# Step 1: Exploratory Data Analysis (EDA)
+### Step 1: Exploratory Data Analysis (EDA)
 Open and run the Jupyter notebook FirstName_LastName_EDA.ipynb to perform EDA on the provided datasets. This notebook covers the following:
 Overview of customer, product, and transaction data.
 Key visualizations and insights derived from the data.
-# Step 2: Lookalike Model
+### Step 2: Lookalike Model
 Open and run the Jupyter notebook FirstName_LastName_Lookalike.ipynb to build the Lookalike model.
 The model recommends the top 3 similar customers for each of the first 20 customers.
 The output is saved in Lookalike.csv.
-# Step 3: Customer Segmentation
+### Step 3: Customer Segmentation
 Open and run the Jupyter notebook FirstName_LastName_Clustering.ipynb for customer segmentation.
 Customers are grouped based on their total spending and transaction quantity.
 KMeans clustering is used to form the customer segments.
 
-# Business Insights
+## Business Insights
 Following are the key business insights derived from the EDA:
 
-  1.Customer Region Distribution: Customers are majorly from specific regions, and regions with high customer concentration should be targeted for marketing.
-  2.Customer Sign-up Trends: A significant increase in customer sign-ups in the past few years, indicating growing business interest.
-  3.Product Category Distribution: Certain product categories dominate, which suggests that focusing on these categories could yield better sales.
-  4.Price Range Concentration: Most products are priced within a specific range, providing valuable information for pricing strategies.
-  5.Transaction Volume Growth: The transaction volume has seen growth in recent years, indicating expanding business operations.
+  ### 1.Customer Region Distribution: Customers are majorly from specific regions, and regions with high customer concentration should be targeted for marketing.
+  ### 2.Customer Sign-up Trends: A significant increase in customer sign-ups in the past few years, indicating growing business interest.
+  ### 3.Product Category Distribution: Certain product categories dominate, which suggests that focusing on these categories could yield better sales.
+  ### 4.Price Range Concentration: Most products are priced within a specific range, providing valuable information for pricing strategies.
+  ### 5.Transaction Volume Growth: The transaction volume has seen growth in recent years, indicating expanding business operations.
 
 
 
