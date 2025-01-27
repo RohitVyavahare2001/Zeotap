@@ -49,11 +49,20 @@ KMeans clustering is used to form the customer segments.
 ## Business Insights
 Following are the key business insights derived from the EDA:
 
-  ### 1.Customer Region Distribution: Customers are majorly from specific regions, and regions with high customer concentration should be targeted for marketing.
-  ### 2.Customer Sign-up Trends: A significant increase in customer sign-ups in the past few years, indicating growing business interest.
-  ### 3.Product Category Distribution: Certain product categories dominate, which suggests that focusing on these categories could yield better sales.
-  ### 4.Price Range Concentration: Most products are priced within a specific range, providing valuable information for pricing strategies.
-  ### 5.Transaction Volume Growth: The transaction volume has seen growth in recent years, indicating expanding business operations.
+  ### 1.Customer Region Distribution:
+  Customers are majorly from specific regions, and regions with high customer concentration should be targeted for marketing.
+  
+  ### 2.Customer Sign-up Trends:
+  A significant increase in customer sign-ups in the past few years, indicating growing business interest.
+  
+  ### 3.Product Category Distribution:
+  Certain product categories dominate, which suggests that focusing on these categories could yield better sales.
+  
+  ### 4.Price Range Concentration:
+  Most products are priced within a specific range, providing valuable information for pricing strategies.
+  
+  ### 5.Transaction Volume Growth:
+  The transaction volume has seen growth in recent years, indicating expanding business operations.
 
 
 
